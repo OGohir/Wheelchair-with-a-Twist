@@ -13,8 +13,8 @@ This car is all about mixing up different types of tech with some different feat
 
 ## Build Instructions
 
-    - Install Motor Bracket on bottom acrylic board, with screw M3*8 in the same bag. 
-    - Install Motor Bracket on bottom acrylic board, with screw M3*30 and Nut M3
+    -  Install Motor Bracket on bottom acrylic board, with screw M3*8 in the same bag. 
+    -  Install Motor Bracket on bottom acrylic board, with screw M3*30 and Nut M3
     -  And then one motor will be installed successful
     -  Install the rest 3 sets of motors with the same method.
     -  Install the rest 3 wheels. 
@@ -67,7 +67,7 @@ Another challenge I had was making the line tracking system work. It ended up no
 
 **3.** For the cleaner, I would make it so that the cleaner is a rectangular cleaner instead  of circular and make it stretch out longer instead of being really close to the car.
 
-**4.**Improve the code so that the line tracking and obstacle avoidance works. The code is perfectly fine, i even tried changing the code multiple times, but nothing worked for each part. For both of the codes, the car moves in the opposite direction (backwards) instead of forward. I think there might be something wrong with the module itself. So for improvement, I would try rebuilding the ultrasonic sensor and the line tracking module to see what could possibly be the problem.
+**4.** Improve the code so that the line tracking and obstacle avoidance works. The code is perfectly fine, i even tried changing the code multiple times, but nothing worked for each part. For both of the codes, the car moves in the opposite direction (backwards) instead of forward. I think there might be something wrong with the module itself. So for improvement, I would try rebuilding the ultrasonic sensor and the line tracking module to see what could possibly be the problem.
 
 **5.** Another improvement I would do is make the ccleaner on all sides of the wheelchair car. The cleaner should be on the right, left and back. Probably not the front because I think that would interfere with the performance of the vehicle chair. So I would make it so that there are three motors that have twisting cleaners at the bottom of the car.
 
